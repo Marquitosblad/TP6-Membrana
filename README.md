@@ -1,3 +1,3 @@
 # TP6-Membrana
 
-#Bueno es medio un bardo de explicar pero este es el repositorio del TP6, cada archivo tiene su "branch" y al cambiarle cosas usas algo así como un guardar cambios que se llama "commit" en el que explicas brevemente que le cambiaste a la versión "main"
+# Bueno, este es el repositorio del TP6. La versión actual del archivo se llama "master". De esa versión se pueden hacer "ramas" que se llaman branches, son una copia del master que pueden modificar y demas para despues sumarselo al master. Una vez que terminaron una modificación pueden poner "pull request", ahi lo revisamos y lo aprobamos, y ahí lo mezclamos con la versión del master. Eso se llama "merge". Suena medio rebuscado pero es lo mismo que andar mandandonos archivos por mail pero mas cómodo y más organizado.
